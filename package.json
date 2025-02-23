@@ -2,9 +2,9 @@
   "name": "talent",
   "version": "0.0.0",
   "private": true,
+  "main": "index.js", 
   "scripts": {
-  "main" : "index.js",
-    "start": "nodemon ./app.js"
+    "start": "app.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
